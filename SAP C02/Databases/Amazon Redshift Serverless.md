@@ -1,4 +1,4 @@
-#aws #datasync
+#aws #redshiftserverless
 
 ## Purpose
 - .
